@@ -1,0 +1,7 @@
+public/*.html linguist-vendored
+*.rs linguist-detectable
+*.htm linguist-vendored
+* text=auto eol=lf
+*.jpg binary
+
+src/**/*.rs linguist-detectable
